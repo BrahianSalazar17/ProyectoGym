@@ -1,4 +1,4 @@
-# clientes_y_membresias_controller.py jb
+# clientes_y_membresias_controller.py j
 
 import sys
 from pathlib import Path
