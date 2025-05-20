@@ -1,4 +1,4 @@
-# registros_y_pagos_controller.py
+# registros_y_pagos_controller.py jb
 
 import sys
 from pathlib import Path
